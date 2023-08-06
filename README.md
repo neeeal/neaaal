@@ -1,7 +1,8 @@
 # 💫 About Me:
-## 👋 Hello! 
+### 👋 Hello! 
 <br><br>I'm an aspiring Data Analyst. 
-<ul> ## Currently studying: 
+#### Currently studying: 
+<ul>
 	<li>Deep Learning</li>
 	<li>Data Analytics</li>
 	<li>Responsive Web Design</li>
