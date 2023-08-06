@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hello! 👋<br><br>I'm an aspiring Data Analyst. <br><br>Currently studying:<br>> Deep Learning<br>> Data Analytics<br>> Responsive Web Design
-
+## 👋 Hello! 
+<br><br>I'm an aspiring Data Analyst. 
+<ul> ## Currently studying: 
+	<li>Deep Learning</li>
+	<li>Data Analytics</li>
+	<li>Responsive Web Design</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeeal) 
