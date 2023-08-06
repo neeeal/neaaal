@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 👋 Hello! 
-<br><br>I'm an aspiring Data Analyst. 
+I'm an aspiring <b>Data Analyst.</b>
 #### Currently studying: 
 <ul>
 	<li>Deep Learning</li>
