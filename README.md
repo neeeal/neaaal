@@ -6,6 +6,7 @@ I'm an aspiring <b>Data Analyst.</b>
 	<li>Deep Learning</li>
 	<li>Data Analytics</li>
 	<li>Responsive Web Design</li>
+	<li>Javascript DSA</li>
 </ul>
 
 # 💻 Tech Stack:
