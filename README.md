@@ -3,9 +3,10 @@
 I'm an aspiring <b>Data Analyst.</b>
 ### Currently studying: 
 <ul>
-	<li>Data Analytics</li>
+	<li>Data Analytics and Deep Learning</li>
 	<li>Responsive Web Design</li>
 	<li>Javascript DSA</li>
+	<li>React, Node, Expo Go, and React Native</li>
 	<!--<li>R Programming</li>-->
 </ul>
 
