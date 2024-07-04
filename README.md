@@ -1,12 +1,12 @@
 ## ⭐ Currently studying: 
 <ul>
-	<li>Deep Learning: Semantic Segmentation</li>
+	<li>Mobile App Development: Expo</li>
 	<!-- <li>Responsive Web Design</li> -->
 	<!-- <li>Javascript DSA</li> -->
 	<!-- <li>React, Node, Expo Go, and React Native</li> -->
 	<!--<li>R Programming</li>-->
-	<li>Node/Express</li>
-	<li>MongoDB</li>
+	<li>SQL</li>
+	<li>Deep Learning</li>
 </ul>
 
 ## 💻 Tech Stack:
